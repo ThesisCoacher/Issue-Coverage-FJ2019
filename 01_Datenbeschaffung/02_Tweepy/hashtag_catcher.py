@@ -5,10 +5,10 @@ import csv
 import pandas as pd
 
 # Authentifizierung mit Twitter. Twitter API credentials. Sind auf der Twitter Developer Seite zu finden, wo ihr Euren Account gemacht habt.
-consumer_key = 'jNoyds3dIvolZmuwvKLl0lRI0'
-consumer_secret = 'VZ7EawnfdNdWNx55h8qieiesjoOLBaQxE1lXs8qmFWVL0aiXJJ'
-access_token = '1069878781110902784-rnoI1fYqfuw81Gh35h4EVT82aIhCp9'
-access_token_secret = 'Jv0GIHE6b0ZKcXh8ymGvHRq6znu0oEmScIqYYy2VkShye'
+consumer_key = 'xyz'
+consumer_secret = 'xyz'
+access_token = 'xyz'
+access_token_secret = 'xyz'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)

@@ -12,10 +12,10 @@ import tweepy # https://github.com/tweepy/tweepy
 import csv
 
 # Authentifizierung mit Twitter. Twitter API credentials. Sind auf der Twitter Developer Seite zu finden, wo ihr Euren Account gemacht habt.
-consumer_key = "BuUVoZdKrZNF4yr2GE9a8osXd"
-consumer_secret = "BTcNmcyesymsuz7Bvmzo7pTCwmSpzZempBrMs7sPKQo6viOJq9"
-access_key = "1069878781110902784-1dMJjWSW0EzVpEusQSQhv5YhWadfrU"
-access_secret = "oGy6RmMBSRQuVf2LBvHpYTfQVixcBkRVBGiaUOPtzqYlr"
+consumer_key = "xyz"
+consumer_secret = "xyz"
+access_key = "xyz"
+access_secret = "xyz"
 
 
 def get_all_tweets(screen_name):
