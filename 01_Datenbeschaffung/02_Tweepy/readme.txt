@@ -11,3 +11,6 @@ Siehe dazu auch Vorlesungsslides.
 
 Nutzen Sie die Twython Dokumentation unter https://twython.readthedocs.io/en/latest/ um den Code zu verstehen,
 bzw. ihn auf Ihre Beduerfnisse anzupassen
+
+
+Hallo
